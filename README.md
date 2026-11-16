@@ -13,7 +13,7 @@ Decretos 0363 de 2023 y 0379 de 2025, con validación contable y revisión visua
 **Este repositorio publica solo el código.** Los datos originales, la base construida, la bitácora de lecturas
 visuales y los resultados están depositados en Zenodo con **acceso restringido**:
 
-> DOI: [10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX)
+> DOI: [10.5281/zenodo.24287432] (https://doi.org/10.5281/zenodo.24287432).
 
 El acceso se concede a editores y evaluadores de la revista, y a investigadores que lo soliciten con un propósito
 de verificación o replicación, mediante el botón «Request access» del registro de Zenodo.
