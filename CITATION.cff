@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "Si usa este código, cite el artículo y el depósito de datos."
+title: "Código de replicación: ¿Frenan las regalías no giradas el cierre de brechas? Evidencia municipal para Colombia"
+type: software
+license: MIT
+date-released: 2026-11-11
+authors:
+  - family-names: "Astorquiza Bustos"
+    given-names: "Bilver Adrián"
+    orcid: "https://orcid.org/0000-0003-1079-6711"
+    affiliation: "Universidad de Manizales"
+  - family-names: "Bolaños"
+    given-names: "Richard"
+    orcid: "https://orcid.org/0009-0001-7639-3512"
+    affiliation: "Universidad de Manizales"
+  - family-names: "Castillo Ortegón"
+    given-names: "Angie Tatiana"
+    orcid: "https://orcid.org/0009-0007-6068-8459"
+    affiliation: "Universidad Pedagógica y Tecnológica de Colombia"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.XXXXXXX"
+    description: "Depósito de datos (acceso restringido)"
